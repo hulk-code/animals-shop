@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/Fs2rhLJ/mariola-grobelska-8a7-ZTFKax-I-unsplash.jpg",
+      "name": "Lion",
+      "post": "King of the Jungle",
+      "price": 500,
+      "color": "Golden"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/vhT2GRZ/donnie-ray-crisp-66zr-T0d-J7-Mc-unsplash.jpg",
+      "name": "Tiger",
+      "post": "Striped Beauty",
+      "price": 400,
+      "color": "Orange"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/M28YhCq/joaquin-rivero-98o9htjuih0-unsplash.jpg",
+      "name": "Elephant",
+      "post": "Gentle Giant",
+      "price": 600,
+      "color": "Gray"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/M9qbSQX/sian-cooper-NEJcmv-LFcws-unsplash.jpg",
+      "name": "Giraffe",
+      "post": "Tall and Graceful",
+      "price": 350,
+      "color": "Spotted"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/QNr8SLt/debbie-molle-6-DSID8-Ey9-U-unsplash.jpg",
+      "name": "Panda",
+      "post": "Bamboo Eater",
+      "price": 450,
+      "color": "Black and White"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/9ws31yM/frida-lannerstrom-c-c-PNXlovv-Y-unsplash.jpg",
+      "name": "Zebra",
+      "post": "Striped Equine",
+      "price": 300,
+      "color": "Black and White"
+    }
+  ]

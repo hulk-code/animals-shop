@@ -1,0 +1,24 @@
+.img-container{
+    /* width: 350px; */
+    height: 150px;
+    margin: auto;
+    border-radius: 100px;
+    
+}
+.info-contsiner{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.box-container{
+    border: 2px solid ;
+}
+.btn-container{
+    text-align: center;
+    margin: 10px;
+
+}
+.btn{
+    border: 2px solid ;
+    padding: 5px;
+}
